@@ -3,7 +3,7 @@
 Interactive web visualizer for single-tape and multi-tape Turing Machines, including preset machines, step-by-step execution, state diagram visualization, and complexity comparison.
 
 ## Project URL:
-App URL is : 'https://multi-tape-turing-machines.vercel.app'
+App URL is : https://multi-tape-turing-machines.vercel.app
 
 ## Project Structure
 
